@@ -1,0 +1,14 @@
+﻿<Window x:Class="clipboard_process_starter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:clipboard_process_starter"
+        mc:Ignorable="d"
+        Title="Clipboard Process-Starter" Height="450" Width="1149">
+    <Grid>
+        <TextBox x:Name="logTextBox" Margin="10,31,10,10" TextWrapping="Wrap" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"/>
+        <TextBlock Margin="10,10,10,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="As long as this window is open, your clipboard will be watched for changes and automatic actions may apply."/>
+
+    </Grid>
+</Window>

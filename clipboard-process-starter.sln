@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clipboard-process-starter", "clipboard-process-starter.csproj", "{827AE01C-409A-4A46-84D1-25B26BF4C890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827AE01C-409A-4A46-84D1-25B26BF4C890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827AE01C-409A-4A46-84D1-25B26BF4C890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827AE01C-409A-4A46-84D1-25B26BF4C890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827AE01C-409A-4A46-84D1-25B26BF4C890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DF0BE3-847E-4438-99A8-B97D86DE5806}
+	EndGlobalSection
+EndGlobal
